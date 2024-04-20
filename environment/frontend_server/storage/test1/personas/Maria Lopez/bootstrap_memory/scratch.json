@@ -1,0 +1,288 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 08:03:50",
+  "curr_tile": [
+    128,
+    50
+  ],
+  "daily_plan_req": "Maria Lopez has a talk with Isabella Rodriguez at Hobbs Cafe around 8:30am. Maria Lopez spends at least 3 hours a day Twitch streaming or gaming.",
+  "name": "Maria Lopez",
+  "first_name": "Maria",
+  "last_name": "Lopez",
+  "age": 21,
+  "innate": "energetic, enthusiastic, inquisitive",
+  "learned": "Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.",
+  "currently": "Maria Lopez is working on her physics degree and streaming games on Twitch to make some extra money. She visits Hobbs Cafe for studying and eating just about everyday.",
+  "lifestyle": "Maria Lopez goes to bed around 2am, awakes up around 6am, eats dinner around 7pm. She likes to have a talk with Isabella Rodriguez at Hobbs Cafe around 8:30am.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maria Lopez's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 120,
+  "importance_ele_n": 14,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "attend her 8:00 am physics class at Oak Hill College",
+    "have a chat with Isabella at Hobbs Cafe at 8:30 am",
+    "spend at least 3 hours streaming games on Twitch",
+    "attend her 1:00 pm physics lab",
+    "study and do homework until dinner at 7:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "attending her 8:00 am physics class at Oak Hill College",
+      60
+    ],
+    [
+      "having a chat with Isabella Rodriguez at Hobbs Cafe",
+      60
+    ],
+    [
+      "streaming games on Twitch (on the way to setting up her streaming equipment)",
+      0
+    ],
+    [
+      "streaming games on Twitch (conversing about Maria Lopez and Klaus Mueller exchanging awkward silences during their meeting.)",
+      2
+    ],
+    [
+      "streaming games on Twitch (setting up her streaming equipment)",
+      8
+    ],
+    [
+      "streaming games on Twitch (checking her internet connection)",
+      5
+    ],
+    [
+      "streaming games on Twitch (starting her stream and greeting her viewers)",
+      5
+    ],
+    [
+      "streaming games on Twitch (playing her first game)",
+      30
+    ],
+    [
+      "streaming games on Twitch (taking a short break to interact with her viewers)",
+      10
+    ],
+    [
+      "streaming games on Twitch (playing her second game)",
+      30
+    ],
+    [
+      "streaming games on Twitch (taking a longer break to eat lunch)",
+      20
+    ],
+    [
+      "streaming games on Twitch (checking her stream stats and responding to comments)",
+      15
+    ],
+    [
+      "streaming games on Twitch (playing her third game)",
+      30
+    ],
+    [
+      "streaming games on Twitch (ending her stream and thanking her viewers)",
+      5
+    ],
+    [
+      "streaming games on Twitch (shutting down her streaming equipment)",
+      5
+    ],
+    [
+      "streaming games on Twitch (taking a short break before starting her homework)",
+      15
+    ],
+    [
+      "studying and doing homework",
+      60
+    ],
+    [
+      "attending her 1:00 pm physics lab at Oak Hill College",
+      60
+    ],
+    [
+      "studying and doing homework",
+      240
+    ],
+    [
+      "eating dinner",
+      60
+    ],
+    [
+      "studying and doing homework",
+      60
+    ],
+    [
+      "streaming games on Twitch",
+      120
+    ],
+    [
+      "studying and doing homework",
+      120
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "attending her 8:00 am physics class at Oak Hill College",
+      60
+    ],
+    [
+      "having a chat with Isabella Rodriguez at Hobbs Cafe",
+      60
+    ],
+    [
+      "streaming games on Twitch",
+      180
+    ],
+    [
+      "studying and doing homework",
+      60
+    ],
+    [
+      "attending her 1:00 pm physics lab at Oak Hill College",
+      60
+    ],
+    [
+      "studying and doing homework",
+      240
+    ],
+    [
+      "eating dinner",
+      60
+    ],
+    [
+      "studying and doing homework",
+      60
+    ],
+    [
+      "streaming games on Twitch",
+      120
+    ],
+    [
+      "studying and doing homework",
+      120
+    ]
+  ],
+  "act_address": "<persona> Klaus Mueller",
+  "act_start_time": "February 13, 2023, 08:01:20",
+  "act_duration": 2,
+  "act_description": "conversing about Maria Lopez and Klaus Mueller exchanging awkward silences during their meeting.",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Maria Lopez",
+    "chat with",
+    "Klaus Mueller"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Klaus Mueller",
+  "chat": [
+    [
+      "Maria Lopez",
+      "..."
+    ],
+    [
+      "Klaus Mueller",
+      "..."
+    ],
+    [
+      "Maria Lopez",
+      "..."
+    ],
+    [
+      "Klaus Mueller",
+      "..."
+    ],
+    [
+      "Maria Lopez",
+      "..."
+    ],
+    [
+      "Klaus Mueller",
+      "..."
+    ],
+    [
+      "Maria Lopez",
+      "..."
+    ],
+    [
+      "Klaus Mueller",
+      "..."
+    ],
+    [
+      "Maria Lopez",
+      "..."
+    ],
+    [
+      "Klaus Mueller",
+      "..."
+    ],
+    [
+      "Maria Lopez",
+      "..."
+    ],
+    [
+      "Klaus Mueller",
+      "..."
+    ],
+    [
+      "Maria Lopez",
+      "..."
+    ],
+    [
+      "Klaus Mueller",
+      "..."
+    ],
+    [
+      "Maria Lopez",
+      "..."
+    ],
+    [
+      "Klaus Mueller",
+      "..."
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Klaus Mueller": 800
+  },
+  "chatting_end_time": "February 13, 2023, 08:04:00",
+  "act_path_set": true,
+  "planned_path": []
+}

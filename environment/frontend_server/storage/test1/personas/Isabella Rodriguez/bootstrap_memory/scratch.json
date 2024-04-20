@@ -1,0 +1,227 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 08:03:50",
+  "curr_tile": [
+    72,
+    23
+  ],
+  "daily_plan_req": "Isabella Rodriguez opens Hobbs Cafe at 7am everyday, and works at the counter until 8pm, at which point she closes the cafe.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.",
+  "currently": "Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.She likes sharing her life experience with anyone she meets",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 129,
+  "importance_ele_n": 13,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "head to Hobbs Cafe at 7:00 am to open and prepare for the day",
+    "interact with customers and make them feel welcome and comfortable",
+    "take a break for lunch at 12:00 pm, possibly with a friend or family member",
+    "continue working and managing the cafe until 8:00 pm",
+    "close the cafe and tidy up",
+    "have dinner and spend the evening relaxing and potentially catching up with friends or family",
+    "prepare for the Valentine's Day party tomorrow, possibly by gathering party materials or making a plan for the event"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day",
+      60
+    ],
+    [
+      "interacting with customers and making them feel welcome and comfortable",
+      60
+    ],
+    [
+      "still interacting with customers and managing the cafe (greeting customers as they enter the cafe)",
+      5
+    ],
+    [
+      "still interacting with customers and managing the cafe (taking orders and serving food and drinks)",
+      30
+    ],
+    [
+      "still interacting with customers and managing the cafe (chatting with customers and making them feel welcome)",
+      30
+    ],
+    [
+      "still interacting with customers and managing the cafe (checking inventory and restocking supplies)",
+      15
+    ],
+    [
+      "still interacting with customers and managing the cafe (cleaning and organizing the cafe)",
+      30
+    ],
+    [
+      "still interacting with customers and managing the cafe (taking a break to eat lunch)",
+      30
+    ],
+    [
+      "still interacting with customers and managing the cafe (checking social media and promoting the Valentine's Day party)",
+      40
+    ],
+    [
+      "taking a lunch break, possibly with a friend or family member",
+      60
+    ],
+    [
+      "back at Hobbs Cafe and preparing for the Valentine's Day party",
+      60
+    ],
+    [
+      "still preparing for the party and possibly taking a break to have some coffee or a snack",
+      240
+    ],
+    [
+      "closing the cafe and tidying up",
+      60
+    ],
+    [
+      "having dinner and relaxing",
+      60
+    ],
+    [
+      "preparing for the Valentine's Day party tomorrow, possibly by gathering party materials or making a plan for the event",
+      60
+    ],
+    [
+      "winding down for the night and getting ready for bed",
+      120
+    ],
+    [
+      "going to bed at 11:00 pm to get a good night's rest before the busy day tomorrow",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day",
+      60
+    ],
+    [
+      "interacting with customers and making them feel welcome and comfortable",
+      60
+    ],
+    [
+      "still interacting with customers and managing the cafe",
+      180
+    ],
+    [
+      "taking a lunch break, possibly with a friend or family member",
+      60
+    ],
+    [
+      "back at Hobbs Cafe and preparing for the Valentine's Day party",
+      60
+    ],
+    [
+      "still preparing for the party and possibly taking a break to have some coffee or a snack",
+      240
+    ],
+    [
+      "closing the cafe and tidying up",
+      60
+    ],
+    [
+      "having dinner and relaxing",
+      60
+    ],
+    [
+      "preparing for the Valentine's Day party tomorrow, possibly by gathering party materials or making a plan for the event",
+      60
+    ],
+    [
+      "winding down for the night and getting ready for bed",
+      120
+    ],
+    [
+      "going to bed at 11:00 pm to get a good night's rest before the busy day tomorrow",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+  "act_start_time": "February 13, 2023, 08:00:00",
+  "act_duration": 60,
+  "act_description": "interacting with customers and making them feel welcome and comfortable",
+  "act_pronunciatio": "\ud83d\ude42",
+  "act_event": [
+    "Isabella Rodriguez",
+    "interact",
+    "customers"
+  ],
+  "act_obj_description": [
+    "being occupied by customers",
+    [
+      "being occupied by customers",
+      "Task: We want to understand the state of an object that is being used by someone. \n\nLet's think step by step. \nWe want to know about oven's state. \nStep 1. Sam Johnson is eating breakfast at/using the oven. \nStep 2. Describe the cooking utensils's state: oven is being heated to cook breakfast. \n---\nLet's think step by step. \nWe want to know about computer's state. \nStep 1. Michael Bernstein is writing email at/using the computer. \nStep 2. Describe the computer's state: computer is being used to write email.\n---\nLet's think step by step. \nWe want to know about sink's state. \nStep 1. Tom Kane is washing his face at/using the sink.\nStep 2. Describe the sink's state: sink is running with water.\n---\nLet's think step by step. \nWe want to know about cafe customer seating's state. \nStep 1. Isabella Rodriguez is at/using the interacting with customers and making them feel welcome and comfortable.\nStep 2. Describe the cafe customer seating's state: cafe customer seating is",
+      {
+        "engine": "gpt-3.5-turbo-instruct",
+        "max_tokens": 15,
+        "temperature": 0,
+        "top_p": 1,
+        "stream": false,
+        "frequency_penalty": 0,
+        "presence_penalty": 0,
+        "stop": null
+      },
+      [
+        "cafe customer seating",
+        "Isabella Rodriguez",
+        "interacting with customers and making them feel welcome and comfortable",
+        "cafe customer seating",
+        "cafe customer seating"
+      ],
+      "cafe customer seating is idle"
+    ]
+  ],
+  "act_obj_pronunciatio": "\ud83d\ude42",
+  "act_obj_event": [
+    "cafe customer seating",
+    "is",
+    "idle"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}
