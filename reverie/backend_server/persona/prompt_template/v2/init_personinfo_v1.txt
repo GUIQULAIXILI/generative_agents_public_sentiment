@@ -1,0 +1,29 @@
+init_personinfo_v1.txt
+
+Variables:
+!<INPUT 0>! -- Persona's comment.
+!<INPUT 1>! -- Persona's sex.
+
+<commentblockmarker>###</commentblockmarker>
+The person's sex is !<INPUT 1>!.
+This is a comment the person made: !<INPUT 0>!.
+
+Based on the given information:
+Create a English name for this person;
+Speculate about the person's key personality traits, the person's age, and generate a schedule for the person in a concise sentence;
+From a third-person perspective,speculate about other people's evaluations, opinions, or impressions of this person;
+Speculate about what this person is currently engaged in or planning to do in the future;
+Speculate about this person's lifestyle.
+
+Return the content in the following format:
+    name: the person's name$
+    first_name: the person's first_name$
+    last_name: the person's last_name$
+    age: the person's age in exactly number$
+    innate: the person's key personality traits$
+    daily_plan: the person's schedule in a brief sentence$
+    learned: other people's evaluations, opinions, or impressions of this person in third-person perspective$
+    currently: what this person is currently engaged in or planning to do in the future$
+    lifestyle: this person's lifestyle.
+
+
